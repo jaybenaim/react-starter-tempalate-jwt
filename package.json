@@ -23,7 +23,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "start-backend": "node server/server.js",
     "start-frontend": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
