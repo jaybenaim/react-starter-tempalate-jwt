@@ -1,7 +1,7 @@
 React starter template with jwt auth ready for gh-pages deployment. 
 
 
-git clone https://github.com/jaybenaim/react-starter-tempalate-jwt.git . 
+git clone https://github.com/jaybenaim/react-starter-template-jwt.git . 
 
 cd react-starter-template-jwt 
 
